@@ -1,0 +1,11 @@
+Model Information:
+* title:	IceBall:
+* source:	https://sketchfab.com/3d-models/iceball-1204ed68e9d04aacac3bed17a93a22d9
+* author:	ElementalNinja (https://sketchfab.com/ElementalNinja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IceBall:" (https://sketchfab.com/3d-models/iceball-1204ed68e9d04aacac3bed17a93a22d9) by ElementalNinja (https://sketchfab.com/ElementalNinja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
